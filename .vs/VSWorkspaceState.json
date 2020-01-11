@@ -1,8 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\GameServer"
+    ""
   ],
-  "SelectedNode": "\\GameServer\\TcpServer.cs",
+  "SelectedNode": "\\GameServer.sln",
   "PreviewInSolutionExplorer": false
 }
